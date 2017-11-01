@@ -1,0 +1,12 @@
+C:\Users\Jake\Documents\Example of math, variables, and if statements\Example of math, variables, and if statements\obj\Debug\Example of math, variables, and if statements.csproj.GenerateResource.Cache
+C:\Users\Jake\Documents\Example of math, variables, and if statements\Example of math, variables, and if statements\obj\Debug\Example of math, variables, and if statements.csprojResolveAssemblyReference.cache
+C:\Users\Jake\Documents\Example of math, variables, and if statements\Example of math, variables, and if statements\obj\Debug\Example_of_math_variables_and_if_statements.Properties.Resources.resources
+C:\Users\Jake\Documents\Example of math, variables, and if statements\Example of math, variables, and if statements\obj\Debug\Example_of_math_variables_and_if_statements.Form1.resources
+C:\Users\Jake\Documents\Example of math, variables, and if statements\Example of math, variables, and if statements\bin\Debug\Example of math variables and if statements.exe.config
+C:\Users\Jake\Documents\Example of math, variables, and if statements\Example of math, variables, and if statements\bin\Debug\Example of math variables and if statements.exe
+C:\Users\Jake\Documents\Example of math, variables, and if statements\Example of math, variables, and if statements\bin\Debug\Example of math variables and if statements.pdb
+C:\Users\Jake\Documents\Example of math, variables, and if statements\Example of math, variables, and if statements\obj\Debug\Example of math variables and if statements.exe
+C:\Users\Jake\Documents\Example of math, variables, and if statements\Example of math, variables, and if statements\obj\Debug\Example of math variables and if statements.pdb
+D:\DEVops\demo1\new1\Example of math, variables, and if statements\bin\Debug\Example of math variables and if statements.exe.config
+D:\DEVops\demo1\new1\Example of math, variables, and if statements\obj\Debug\Example of math variables and if statements.exe
+D:\DEVops\demo1\new1\Example of math, variables, and if statements\obj\Debug\Example of math variables and if statements.pdb
